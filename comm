@@ -1,4 +1,70 @@
-how to pull or push 
-https://github.com/yourusername/repo.git
-git push -u origin main ye konsa link hai repo ka na 
-ye  git commannds ka explainkar kya karta in en 
+1️⃣ git init
+
+👉 Meaning:
+Creates a new Git repository in your project
+
+👉 Simple:
+“Start tracking this folder using Git”
+2️⃣ git add .
+
+👉 Meaning:
+Adds all files to staging area
+
+👉 Simple:
+“Prepare all files to be saved”
+
+3️⃣ git commit -m "message"
+
+👉 Meaning:
+Saves changes permanently with a message
+
+👉 Simple:
+“Take a snapshot of project”
+
+4️⃣ git branch -M main
+
+👉 Meaning:
+Renames branch to main
+
+👉 Simple:
+“Set main branch as default”
+
+5️⃣ git remote add origin <repo-link>
+
+👉 Meaning:
+Connects your local project to GitHub repository
+
+👉 Simple:
+“Link my project to GitHub”
+
+6️⃣ git push -u origin main
+
+👉 Meaning:
+Uploads code to GitHub
+
+👉 Simple:
+“Send my code to GitHub”
+
+7️⃣ git push
+
+👉 Meaning:
+Push latest changes
+
+👉 Simple:
+“Update code on GitHub”
+
+8️⃣ git pull
+
+👉 Meaning:
+Downloads latest changes from GitHub
+
+👉 Simple:
+“Get updated code from GitHub”
+
+9️⃣ git clone <repo-link>
+
+👉 Meaning:
+Copies repository to your system
+
+👉 Simple:
+“Download project from GitHub”
